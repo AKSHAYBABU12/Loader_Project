@@ -3,7 +3,8 @@
 A loader, in the context of web development using HTML and CSS, is a visual element that indicates to the user that a page or part of a page is still loading, preventing the impression of a non-responsive website. It typically consists of animated CSS elements, like spinning shapes or progress indicators, that appear while the content is being fetched and rendered. 
 Here's a more detailed breakdown:
 Purpose:
-Provide Feedback:
+Provide Feedback:![Loader Image](https://github.com/user-attachments/assets/6997e036-3fc7-45c3-a847-04b2a4679e62)
+
 Loaders give users visual confirmation that the page is loading, even if the process takes a few seconds. 
 Improve User Experience:
 By showing that something is happening, loaders prevent users from assuming the page is broken or unresponsive. 
@@ -45,19 +46,5 @@ Code
 }
 This creates a blue circle that spins infinitely. 
 In essence, a loader is a UI element that provides feedback during page loading, enhancing the user experience and preventing the perception of a non-responsive website. 
-How to set logo inside loader using CSS ? - GeeksforGeeks
-29 Jul 2024 — In this article, we will learn how to set logo inside the loader using CSS. A loader is any animation that alerts the v...
 
-GeeksforGeeks
 
-Spinning into Action: A Step-by-Step Guide to Creating a Stunning ...
-15 May 2023 — Understanding the Concept. Before we dive into the coding process, let's take a moment to understand the concept behind...
-
-DEV Community
-
-How to make CSS Loader ? - GeeksforGeeks
-23 Oct 2019 — The CSS loader is useful when a certain page took a few seconds to load the content of the webpage. When the user has t...
-
-GeeksforGeeks
-
-Show all
